@@ -102,7 +102,7 @@ The individual experiment reports are available below:
 
 Hyperparameter tuning experiments:
 
-[View Mike's Experiment Documentation](./mike experiments/Hyperparameter_Tuning_Experiments_Ntwari_Mike_Chris_Kevin.pdf)
+[View Mike's Experiment Documentation](./mike_experiments/Hyperparameter_Tuning_Experiments_Ntwari_Mike_Chris_Kevin.pdf)
 
 
 ---
