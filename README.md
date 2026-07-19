@@ -111,7 +111,7 @@ Hyperparameter tuning experiments:
 
 Hyperparameter tuning experiments:
 
-[View Melissa's Experiment Documentation](./models-bella-melissa-Ineza/hyperparameter_experiments_Melissa.pdf)
+[View Melissa's Experiment Documentation](./models-bella-melissa-Ineza/Hyperparameter_Experiments_Melissa.pdf)
 
 
 ---
