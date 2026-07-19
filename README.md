@@ -50,33 +50,29 @@ The project was developed using:
 
 The repository is organized according to individual group contributions.
 
-
+```
 DQN-Atari-Project
 │
 ├── README.md
 │
 ├── play.py
+├── requirements.py
+├── models/
+│ └── best_model.zip
 │
-├── trained_models/
-│
-├── video/
-│ └── gameplay_demo.mp4
-│
-├── Norman/
+├── Mike/
 │ ├── train.py
-│ ├── experiment_results.csv
 │ └── hyperparameter_documentation.pdf
 │
-├── Chris/
+├── Melissa/
 │ ├── train.py
-│ ├── experiment_results.csv
-│ └── hyperparameter_documentation.pdf
+│ ├── models
+│ └── hyperparameter_Experiments_Melissa.pdf
 │
-└── Kevin/
+└── Emmanuella/
 ├── train.py
-├── experiment_results.csv
 └── hyperparameter_documentation.pdf
-
+```
 
 ---
 
@@ -102,29 +98,29 @@ The individual experiment reports are available below:
 
 ## Member Experiment Documentation
 
-### Norman
+### Mike
 
 Hyperparameter tuning experiments:
 
-[View Norman's Experiment Documentation](./Norman/hyperparameter_documentation.pdf)
+[View Mike's Experiment Documentation](./mike experiments/Hyperparameter Tuning Experiments - Ntwari Mike Chris Kevin.pdf)
 
 
 ---
 
-### Chris
+### Mellisa
 
 Hyperparameter tuning experiments:
 
-[View Chris's Experiment Documentation](./Chris/hyperparameter_documentation.pdf)
+[View Melissa's Experiment Documentation](./models-bella-mellisa-ineza/hyperparameter_experiments_Melissa.pdf)
 
 
 ---
 
-### Kevin
+### Emmanuella
 
 Hyperparameter tuning experiments:
 
-[View Kevin's Experiment Documentation](./Kevin/hyperparameter_documentation.pdf)
+[View Emmanuella's Experiment Documentation](./Kevin/hyperparameter_documentation.pdf)
 
 
 ---
