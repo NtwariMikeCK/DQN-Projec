@@ -120,7 +120,7 @@ Hyperparameter tuning experiments:
 
 Hyperparameter tuning experiments:
 
-[View Emmanuella's Experiment Documentation](./Kevin/hyperparameter_documentation.pdf)
+[View Emmanuella's Experiment Documentation](.//Hyperparameter_Tuning_Experiments_Emmanuella-Briggs.pdf)
 
 
 ---
