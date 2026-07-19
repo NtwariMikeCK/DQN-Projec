@@ -71,7 +71,7 @@ DQN-Atari-Project
 │
 └── Emmanuella/
 ├── train.py
-└── hyperparameter_documentation.pdf
+└── Hyperparameter_Tuning_Experiments_Emmanuella-Briggs.pdf
 ```
 
 ---
