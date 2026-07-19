@@ -269,8 +269,7 @@ The trained agent interacting with the Atari environment can be viewed below:
 
 ## Gameplay Video
 
-[Watch Agent Gameplay Demonstration]([./[video/gameplay_demo.mp](https://drive.google.com/file/d/1L_tWxhXTX5NpN4Q4HfHzeLmH_3p2apww/view?usp=sharing)](https://drive.google.com/file/d/1L_tWxhXTX5NpN4Q4HfHzeLmH_3p2apww/view?usp=sharing))
-
+[[Watch Agent Gameplay Demonstration]([./[video/gameplay_demo.mp](https://drive.google.com/file/d/1L_tWxhXTX5NpN4Q4HfHzeLmH_3p2apww/view?usp=sharing)]](https://drive.google.com/file/d/1L_tWxhXTX5NpN4Q4HfHzeLmH_3p2apww/view?usp=sharing)
 
 The video demonstrates:
 
