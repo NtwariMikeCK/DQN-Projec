@@ -62,7 +62,7 @@ DQN-Atari-Project
 │
 ├── Mike/
 │ ├── train.py
-│ └── hyperparameter_documentation.pdf
+│ └── Hyperparameter_Tuning_Experiments_Ntwari_Mike_Chris_Kevin.pdf
 │
 ├── Melissa/
 │ ├── train.py
@@ -102,7 +102,7 @@ The individual experiment reports are available below:
 
 Hyperparameter tuning experiments:
 
-[View Mike's Experiment Documentation](./mike experiments/Hyperparameter Tuning Experiments - Ntwari Mike Chris Kevin.pdf)
+[View Mike's Experiment Documentation](./mike\nexperiments/Hyperparameter_Tuning_Experiments_Ntwari_Mike_Chris_Kevin.pdf)
 
 
 ---
