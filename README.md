@@ -288,44 +288,50 @@ Create a Python environment:
 
 ```bash
 python -m venv rl_env
-
+```
 Activate environment:
 
-Windows:
-
+- Windows:
+```bash
 rl_env\Scripts\activate
-
-Linux/Mac:
-
+```
+- Linux/Mac:
+```bash
 source rl_env/bin/activate
+```
 
 Install requirements:
-
+```bash
 pip install -r requirements.txt
-Training the Agent
 ```
-Run:
 
+Training the Agent
+
+- Run:
+```bash
 python train.py
-
+```
 The training process will:
 
-Train the DQN agent
-Save the model
-Record evaluation metrics
+- Train the DQN agent
+- Save the model
+- Record evaluation metrics
 
 The trained model is saved as:
-
+```bash
 dqn_model.zip
+```
+
 Running the Agent
 
-To watch the trained agent:
-
+- To watch the trained agent:
+```bash
 python play.py
+```
 
 The game window will open and display the agent playing the Atari environment.
 
-Conclusion
+# Conclusion
 
 This project successfully implemented and evaluated a DQN agent for an Atari environment.
 
